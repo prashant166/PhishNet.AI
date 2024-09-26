@@ -1,10 +1,10 @@
 <h1>PhishNet.AI (AI-enabled Phishing Link Detection and Alert System)</h1>
 <h1>Table of Content</h1> <ul> <li>Introduction</li> <li>Installation</li> <li>Directory Tree</li> <li>Terminology Used</li> <li>Result</li> <li>Conclusion</li> </ul> <h2>Introduction</h2> <p> In today's digital age, phishing attacks have become a significant threat to individuals and organizations alike. On the rise in both sophistication and frequency, phishing schemes often trick users into divulging sensitive information through fraudulent websites, particularly banking sites and online services. During our development and research for PhishNet.AI, we came across a well-crafted fake banking website that mimicked a legitimate financial institution, reinforcing the importance of a robust phishing detection system.
 PhishNet.AI is an AI-powered phishing detection and alert system designed to protect users from falling victim to such attacks. This tool helps identify malicious URLs and alerts users in real time. By incorporating machine learning models and web scraping techniques, PhishNet.AI can effectively differentiate between safe and phishing websites, helping users stay protected online.
-![WhatsApp Image 2024-09-26 at 11 38 09 PM (2)](https://github.com/user-attachments/assets/cc08cac2-108c-4142-a23a-09f15339301b)
-![WhatsApp Image 2024-09-26 at 11 38 09 PM (1)](https://github.com/user-attachments/assets/c4a795f4-8903-4fae-ac33-bf5f24201b5f)
-![WhatsApp Image 2024-09-26 at 11 38 09 PM](https://github.com/user-attachments/assets/8abfe011-cb10-47a5-81e8-4656574c7c57)
-![WhatsApp Image 2024-09-26 at 11 38 08 PM](https://github.com/user-attachments/assets/928f25bd-3990-4935-ab7d-4a4d158bb173)
+(https://github.com/user-attachments/assets/cc08cac2-108c-4142-a23a-09f15339301b)
+(https://github.com/user-attachments/assets/c4a795f4-8903-4fae-ac33-bf5f24201b5f)
+(https://github.com/user-attachments/assets/8abfe011-cb10-47a5-81e8-4656574c7c57)
+(https://github.com/user-attachments/assets/928f25bd-3990-4935-ab7d-4a4d158bb173)
 
 
 </p> <h2>Installation</h2> <ol> <li>Download the zip file and unzip the contents into a folder.</li> <li>Go to Chrome settings and navigate to "Manage Extensions".</li> <li>Enable "Developer Mode" at the top right.</li> <li>Select "Load unpacked" and import the manifest file from the folder.</li> </ol> 
