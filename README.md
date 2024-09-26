@@ -1,6 +1,3 @@
-
-Here's an updated version of the README for your project, with a genuine summary that includes a reference to a fake banking website detection:
-
 <p><strong>-: PhishNet.AI (AI-enabled Phishing Link Detection and Alert System) :-</strong></p> <h1>Table of Content</h1> <ul> <li>Introduction</li> <li>Installation</li> <li>Directory Tree</li> <li>Terminology Used</li> <li>Result</li> <li>Conclusion</li> </ul> <h2>Introduction</h2> <p> In today's digital age, phishing attacks have become a significant threat to individuals and organizations alike. On the rise in both sophistication and frequency, phishing schemes often trick users into divulging sensitive information through fraudulent websites, particularly banking sites and online services. During our development and research for PhishNet.AI, we came across a well-crafted fake banking website that mimicked a legitimate financial institution, reinforcing the importance of a robust phishing detection system.
 PhishNet.AI is an AI-powered phishing detection and alert system designed to protect users from falling victim to such attacks. This tool helps identify malicious URLs and alerts users in real time. By incorporating machine learning models and web scraping techniques, PhishNet.AI can effectively differentiate between safe and phishing websites, helping users stay protected online.
 
